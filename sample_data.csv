@@ -1,0 +1,5 @@
+CustomerID,Name,Email,Phone,Address
+101,John Smith,john.smith@example.com,1234567890,221B Baker Street
+102,Jon Smyth,jon.s@example.com,1234567890,221B Baker St.
+103,Jane Doe,jane.doe@example.com,9876543210,742 Evergreen Terrace
+104,Jane D.,jane.d@example.com,9876543210,742 Evergreen Terrace
